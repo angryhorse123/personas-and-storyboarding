@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/personas-and-storyboarding/static/css/main.cdf796c2.css",
+    "main.js": "/personas-and-storyboarding/static/js/main.d297ab6a.js",
+    "static/media/persona1.svg": "/personas-and-storyboarding/static/media/persona1.7058a0700a2247f3021c9f8448c19df4.svg",
+    "static/media/persona2.svg": "/personas-and-storyboarding/static/media/persona2.a9f73b978fc145b6a93fe2df7257d36d.svg",
+    "static/media/storyboard.jpg": "/personas-and-storyboarding/static/media/storyboard.2035f6358df1cd5f6c88.jpg",
+    "static/media/interface_sketch.jpg": "/personas-and-storyboarding/static/media/interface_sketch.c838e09db1d2136c2191.jpg",
+    "static/media/personas-intro.jpeg": "/personas-and-storyboarding/static/media/personas-intro.4847ea439420b9c9e0ee.jpeg",
+    "static/media/interviewing.jpeg": "/personas-and-storyboarding/static/media/interviewing.bf8d21f50944d554c0d9.jpeg",
+    "index.html": "/personas-and-storyboarding/index.html",
+    "main.cdf796c2.css.map": "/personas-and-storyboarding/static/css/main.cdf796c2.css.map",
+    "main.d297ab6a.js.map": "/personas-and-storyboarding/static/js/main.d297ab6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf796c2.css",
+    "static/js/main.d297ab6a.js"
+  ]
+}
